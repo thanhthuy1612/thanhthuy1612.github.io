@@ -1,0 +1,272 @@
+.muc1{
+	background-color: #ff5050;
+}
+.img1{
+	float: left;
+	padding-right: 10px;
+}
+.text1{
+	color: white;
+}
+.clearfix{
+	clear: both;
+}
+.img2{
+	height: 50px;
+}
+.search{
+	padding-top: 30px;
+}
+.box .container-4{
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+}
+.box input#search{
+	height: 40px;
+	width: 300px;
+	color: #808080;
+	padding-right: 40px;
+	padding-left: 15px;
+}
+.container-4 .icon i{
+	font-size: 25px;
+	position: absolute;
+	right: 130px;
+	top:7px;
+	color: #808080;
+}
+.img3{
+	float:left;
+	padding-right: 5px;
+}
+.text2 a{
+	text-decoration: none;
+	color: #808080;
+}
+.contact{
+	padding-top: 40px;
+}
+.menu{
+	margin-top: 30px;
+	border-top: 1px groove black;
+	border-bottom: 1px groove black; 
+	height: 45px;
+}
+.menu a{
+	text-decoration: none;
+	color: black;
+}
+.menu .menu1{
+	padding-left: 0px;
+}
+.menu .menu1 li{
+	text-align: center;
+	float: left;
+	list-style-type: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.menu .menu1 li:hover{
+	background-color: #ff5050;
+}
+.menu .menu1 li:hover a{
+	color: white;
+}
+.item ul li{
+	float: right;
+	list-style-type: none;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.item{
+	margin-top: -9px;
+}
+.item1 img{
+	position: relative; 
+}
+.buy{
+	position: absolute;
+	right: 165px;
+	top:137px;
+}
+.nen1 img{
+	padding-top: 30px;
+	width: 100%;
+}
+.nen2 img{
+	padding-top: 30px;
+	width: 100%;
+}
+.img17{
+	padding-top: 60px;
+}
+.img18 img{
+	padding-top: 20px;
+	width: 100%;
+}
+.text3{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 30px;
+}
+.text3 a{
+	text-decoration: none;
+	color: black;
+}
+.img23 img{
+	width: 100%;
+}
+.img24 img{
+	padding-top: 30px;
+	height: 250px;
+	position: relative;
+}
+.img24{
+	text-align: center;
+	margin: auto;
+}
+.img24 a{
+	text-align: center;
+	float: none;
+	text-decoration: none;
+	color: black;
+}
+.sale1{
+	position: absolute;
+	top: 980px;
+	text-align: left;
+	background-color: #e60000;
+	border-radius: 20px;
+	padding: 2px 10px 2px 10px;
+}
+.sale1 a{
+	color: white;
+}
+@-webkit-keyframes my{
+  0% { background-color: #b30000; }
+  50% { background-color: #e60000; }
+  100% { background-color: #b30000; }
+}
+.sale1{
+-webkit-animation: my 700ms infinite;
+-moz-animation: my 700ms infinite;
+-o-animation: my 700ms infinite;
+animation: my 700ms infinite;
+}
+.text24{
+	margin-top: 10px;
+}
+.text24 a{
+	border-radius: 5px;
+	background-color: #ff5050;
+	padding: 5px 15px 5px 15px;
+	color: white;
+}
+.text24 a:hover{
+	background-color: #ff8080;
+}
+.text27{
+	text-align: center;
+}
+.text25{
+	color: #ff5050;
+	font-size: 30px;
+	padding-top: 100px;
+}
+.text26{
+	color: #666666;
+	font-size: 30px;
+}
+.text27 a{
+	text-decoration: none;
+	color: white;
+	background-color: #404040;
+	border-radius: 10px;
+	padding: 5px 15px 5px 15px;
+	margin-top: 5px;
+}
+.text27 a:hover{
+	background-color: #808080;
+}
+.muc3{
+	background-color: #e6e6e6;
+	margin-top: 100px;
+	padding-top: 100px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 100px;
+}
+.text30{
+	font-size: 20px;
+}
+.text31{
+	color: #404040;
+	font-size: 15px;
+	padding-top: 15px;
+}
+.muc4{
+	padding-top: 100px;
+	padding-bottom: 100PX;
+}
+.text32{
+	font-size: 25px;
+	color: #404040;
+}
+.text33{
+	font-size: 15px;
+	color: #404040;
+}
+.muc5{
+	background-color: #ff5050;
+	padding-top: 50px;
+	padding-bottom: 50px; 
+}
+.muc5 .img36 img{
+	width: 100%;
+}
+.text36{
+	color: white;
+	padding-top: 45px;
+}
+.img37{
+	float: left;
+	padding-right: 10px;
+}
+.text37 a{
+	text-decoration: none;
+	color: white;
+	display: table;
+}
+.text37{
+	padding-top: 20px;
+}
+.img40{
+	padding-top: 20px;
+}
+.img40 a{
+	float: left;
+	padding-right: 5px;
+}
+.text37 p{
+	color: white;
+}
+.text37 input#text38{
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	border: none;
+}
+.text37 input#text39{
+	width: 100%;
+	height: 40px;
+	margin-top: 5px;
+	background-color: #cc0000;
+	border: none;
+}
+.text37 img{
+	width: 100%;
+}
